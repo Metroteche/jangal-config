@@ -9,7 +9,7 @@
       "logo": "",
       "licenses": ["B", "C"],
       "tier": "premium",
-      "active": false
+      "active": true
     }
   ]
 }
