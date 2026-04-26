@@ -1,0 +1,15 @@
+{
+  "auto_ecoles": [
+    {
+      "id": "ae001",
+      "name": "Auto-École Exemple",
+      "phone": "77 000 00 00",
+      "address": "Dakar, Plateau",
+      "website": "",
+      "logo": "",
+      "licenses": ["B", "C"],
+      "tier": "premium",
+      "active": false
+    }
+  ]
+}
