@@ -2,10 +2,10 @@
   "auto_ecoles": [
     {
       "id": "ae001",
-      "name": "Auto-École Exemple",
-      "phone": "77 000 00 00",
-      "address": "Dakar, Plateau",
-      "website": "https://www.autoecoleexemple.com",
+      "name": "Auto-École Daara-j",
+      "phone": "77 634 88 31",
+      "address": "Sicap Mbao en face SENEAU",
+      "website": "https://www.autoecoledaaraj.com",
       "logo": "auto_ecole_exemple_logo.png",
       "logo_url": "https://raw.githubusercontent.com/metroteche/jangal-config/main/assets/auto_ecoles/logos/auto_ecole_exemple_logo.png",
       "photos": [
@@ -26,10 +26,10 @@
     },
     {
       "id": "ae002",
-      "name": "Auto-École Horizon",
-      "phone": "77 111 22 33",
-      "address": "Dakar, Mermoz",
-      "website": "https://www.autoecolehorizon.sn",
+      "name": "Auto-École Champion",
+      "phone": "77 533 47 87",
+      "address": "Petit Mbao en face usine metallique, Mermoz",
+      "website": "https://www.autoecolechampion.sn",
       "logo": "auto_ecole_horizon_logo.png",
       "logo_url": "https://raw.githubusercontent.com/metroteche/jangal-config/main/assets/auto_ecoles/logos/auto_ecole_horizon_logo.png",
       "photos": [
