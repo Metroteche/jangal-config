@@ -5,10 +5,45 @@
       "name": "Auto-École Exemple",
       "phone": "77 000 00 00",
       "address": "Dakar, Plateau",
-      "website": "",
-      "logo": "",
+      "website": "https://www.autoecoleexemple.com",
+      "logo": "auto_ecole_exemple_logo.png",
+      "logo_url": "https://raw.githubusercontent.com/metroteche/jangal-config/main/assets/auto_ecoles/logos/auto_ecole_exemple_logo.png",
+      "photos": [
+        "auto_ecole_exemple_1.jpg",
+        "auto_ecole_exemple_2.jpg",
+        "auto_ecole_exemple_3.jpg"
+      ],
+      "photo_urls": [
+        "https://raw.githubusercontent.com/metroteche/jangal-config/main/assets/auto_ecoles/photos/auto_ecole_exemple_1.jpg",
+        "https://raw.githubusercontent.com/metroteche/jangal-config/main/assets/auto_ecoles/photos/auto_ecole_exemple_2.jpg",
+        "https://raw.githubusercontent.com/metroteche/jangal-config/main/assets/auto_ecoles/photos/auto_ecole_exemple_3.jpg"
+      ],
+      "description": "Formation rapide et flexible pour code et conduite, avec moniteurs expérimentés.",
+      "maps_url": "https://www.google.com/maps/dir/?api=1&destination=Dakar+Plateau",
       "licenses": ["B", "C"],
       "tier": "premium",
+      "active": true
+    },
+    {
+      "id": "ae002",
+      "name": "Auto-École Horizon",
+      "phone": "77 111 22 33",
+      "address": "Dakar, Mermoz",
+      "website": "https://www.autoecolehorizon.sn",
+      "logo": "auto_ecole_horizon_logo.png",
+      "logo_url": "https://raw.githubusercontent.com/metroteche/jangal-config/main/assets/auto_ecoles/logos/auto_ecole_horizon_logo.png",
+      "photos": [
+        "auto_ecole_horizon_1.jpg",
+        "auto_ecole_horizon_2.jpg"
+      ],
+      "photo_urls": [
+        "https://raw.githubusercontent.com/metroteche/jangal-config/main/assets/auto_ecoles/photos/auto_ecole_horizon_1.jpg",
+        "https://raw.githubusercontent.com/metroteche/jangal-config/main/assets/auto_ecoles/photos/auto_ecole_horizon_2.jpg"
+      ],
+      "description": "Cours personnalisés, parcours tests réguliers et accompagnement permis B/C.",
+      "maps_url": "https://www.google.com/maps/dir/?api=1&destination=Dakar+Mermoz",
+      "licenses": ["B"],
+      "tier": "standard",
       "active": true
     }
   ]
